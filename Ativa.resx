@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>1 - 1 - DISPONIBILIZAÇÃO
+O presente documento foi redigido e disponibilizado em 20/03/2018.
+
+2 - NOMENCLATURAS
+Abaixo estão dispostos os significados de algumas definições e termos na língua inglesa.
+
+Cookies: Pequenos arquivos de texto que ficam gravados no computador do internauta e podem ser recuperados pelo site que o enviou durante a navegação.
+
+Dados da empresa: qualquer informação disponibilizada pelo usuário que o identifique, tais como: nome empresarial, CNPJ, endereço, e-mail, número de telefone.
+
+Dados do responsável pelo projeto: qualquer informação disponibilizada pelo usuário que permita a identificação da pessoa física responsável pela contratação e comunicação com a Qualyteam, tais como nome completo e CPF.
+
+IP: Significa “Internet Protocol”, traduzido para português como Protocolo da Internet e é um número que identifica um dispositivo (computador, impressora, roteador) em uma rede.
+
+Link: Ligação entre documentos na Internet.
+
+SaaS: sigla para “Software as a Service”, que em português significa Software como Serviço, permite que os usuários se conectem e usem aplicativos baseados em nuvem pela Internet.
+
+Spam: Mensagem eletrônica recebida, mas não solicitada pelo destinatário.
+
+3 - O SERVIÇO
+3.1 - O serviço fornecido pelo software consiste, mas não se limita, a uma ferramenta para gestão da qualidade. O objetivo é licenciar de forma revogável, não exclusiva e intransferível o uso do software Qualyteam por meio da internet, na modalidade de Software as a Service (SaaS), incluindo os serviços de hospedagem do software e banco de dados.
+
+3.2 - O serviço é composto por módulos e soluções, que estão detalhados no site.
+
+3.3 - Para contratação do serviço é necessário o seguinte passo a passo:
+
+(i) o usuário solicita e recebe um orçamento da Qualyteam;
+
+(ii) estando de acordo com o orçamento, é gerado e encaminhado ao usuário o Termo de Aceite e Contratação com as informações do plano contratado;
+
+(iii) o usuário deve fornecer os dados da empresa e do responsável pelo projeto e aceitar o Termo de Aceite para que seja efetivada a contratação.
+
+3.4 - As limitações no cadastro de usuários e acessos simultâneos se darão em acordo com o Termo de Aceite e Contratação e especificação do plano contratado.
+
+3.5 - Os serviços de licença são contratados para a versão atual e vigente do software. A Qualyteam poderá realizar melhorias e atualizações do software sem a necessidade de prévia anuência do usuário.
+
+3.6 - Inclui-se no serviço a manutenção de cópias de segurança (backups). As cópias de segurança são realizadas automaticamente e mantidas em locais físicos diferentes, assegurando a salvaguarda dos dados carregados pelo usuário ao software. O usuário poderá requerer cópias de segurança, mediante solicitação, considerando a programação e os prazos estabelecidos pela Qualyteam.
+
+3.7 - Durante o cadastro, o cliente determinará sua senha de acesso, sendo de sua exclusiva responsabilidade a manutenção do sigilo dessa informação.
+
+3.8 - Em caso de perda, divulgação, roubo ou identificação de uso não autorizado da senha e/ou da conta de acesso, o cliente deverá informar imediatamente a Qualyteam, sendo que a Qualyteam não se responsabiliza pelas ações, pagamentos ou danos que poderão ser causados pelo acesso irregular da conta de acesso por terceiros.
+
+4 - ALTERAÇÃO NO PLANO CONTRATADO
+Para alteração do serviço contratado é necessário o seguinte passo a passo:
+
+(i) o usuário solicita e recebe um orçamento da Qualyteam com o novo plano desejado;
+
+(ii) em seguida, será gerado um novo termo de aceite e contratação com as informações do novo plano contratado, que deverá ser aceito para que seja efetivada a alteração, que substituirá o termo de aceite anterior.
+
+5 - DA REMUNERAÇÃO
+5.1 - Para utilizar a ferramenta o usuário deverá pagar à Qualyteam os valores estabelecidos no momento da contratação. A ferramenta é fornecida no modelo de assinatura de planos mensais e anuais. Os preços e formas de pagamento são variáveis de acordo com as condições e serviços contratados, como os módulos selecionados e a quantidade de usuários ou licenças de uso, que serão informados em termo específico no momento da contratação.
+
+5.2 - A Qualyteam também possui serviços que podem ser contratados e pagos de forma avulsa, cujos valores e condições serão definidos em termo de contratação específico.
+
+5.3 - Os valores cobrados não são reembolsáveis, ainda que o cliente não faça uso dos serviços.
+
+5.4 - A falta de pagamento de quaisquer valores nas respectivas datas de vencimento não acarretará na rescisão automática do contrato, mas causará a suspensão do acesso ao software caso a pendência não seja regularizada em até 30 (trinta) dias. Caso o usuário não resolva a pendência financeira no prazo de 60 (sessenta) dias, contados do vencimento do valor não pago, a Qualyteam se reserva o direito de rescindir o contrato entre as partes e excluir de forma definitiva os dados do usuário que por ventura estejam armazenados no software.
+
+5.5 - A Qualyteam reserva-se o direito de modificar e/ou atualizar os preços cobrados pelo uso da ferramenta, atendendo a critérios de necessidade, conveniência ou flutuações do mercado.
+
+6 - NÍVEL DE SERVIÇO
+6.1 - A Qualyteam compromete-se a empreender seus esforços para oferecer e tornar o software disponível por 99% (noventa e nove por cento) do tempo em cada mês civil.
+
+6.2 - O compromisso de Nível de Serviço de 99% (noventa e nove por cento) não se aplica caso as circunstâncias de indisponibilidade resultem de:
+
+(i) interrupções planejadas, que serão informadas pela Qualyteam por meio de mensagem por e-mail ou aviso no software e que serão programadas, na medida do possível, em horários noturnos, entre 22h00 e 06h00 (horário de Brasília);
+
+(ii) casos fortuitos ou de força maior, nos termos do artigo 393 do Código Civil;
+
+(iii) quaisquer atos ou omissões do usuário ou de terceiros.
+
+7 - PROMOÇÕES E PERÍODOS DE TESTES
+7.1 - A Qualyteam poderá oferecer períodos de testes, descontos, acessos gratuitos ou pacotes promocionais a qualquer momento, por motivos puramente comerciais e a seu exclusivo critério.
+
+7.2 - As promoções e testes não serão cumulativos e poderão ser limitados a determinados serviços, períodos de tempo e a aceitação de condições especiais.
+
+7.3 - As condições de validade das promoções e testes serão claramente veiculadas por seus meios de divulgação e a Qualyteam recomenda a atenta leitura pelo usuário.
+
+7.4 - Do mesmo modo, a Qualyteam poderá interromper, cancelar ou modificar as promoções e testes unilateralmente.
+
+7.5 - Após o período de testes, os dados pessoais do usuário inseridos na ferramenta são apagados, permanecendo apenas os dados de uso.
+
+8 - PROPRIEDADE INTELECTUAL
+8.1 - O software tem seu uso licenciado por modalidade de serviço “Software as a Service” (SaaS) e não venda. A titularidade e os direitos relativos ao software, aos materiais impressos que o acompanham e quaisquer cópias pertencem exclusivamente à Qualyteam.
+
+8.2 - O usuário declara que está ciente que os direitos a propriedade intelectual sobre o software não são objeto destes Termos de Uso e Política de Privacidade.
+
+8.3 - O usuário não está autorizado a utilizar, sob qualquer forma ou pretexto, as marcas, suas variações, domínios e sinais que sejam da Qualyteam ou estiverem expostas no software.
+
+8.4 - Todo o conteúdo do software, incluindo programas, bases de dados, arquivos, textos, desenhos, fotos, layouts, cabeçalhos e demais elementos, foi criado, desenvolvido ou cedido a Qualyteam, sendo, portanto, de propriedade exclusiva da Qualyteam ou a ela licenciado e encontra-se protegido pelas leis brasileiras e tratados internacionais que versam sobre direitos de propriedade intelectual.
+
+8.5 - São proibidas: a exploração, cessão, imitação, cópia, plágio, aplicação de engenharia reversa, armazenamento, alteração, modificação de características, ampliação, sublicenciamento, venda, locação, doação, alienação, transferência, reprodução, integral ou parcial, de qualquer conteúdo do site ou do software.
+
+8.6 - O usuário que violar as proibições contidas na legislação sobre propriedade intelectual e nestes Termos e Condições de Uso e Política de Privacidade será responsabilizado, civil e criminalmente, pelas infrações cometidas, além de ser excluído da plataforma.
+
+9 - OBRIGAÇÕES DAS PARTES
+9.1 - São obrigações da Qualyteam:
+
+(i) realizar os serviços nos moldes contratados pelo usuário, responsabilizar-se pelo funcionamento do software, pelas correções que eventualmente sejam necessárias e disponibilizar acesso aos serviços de suporte para esclarecimento de dúvidas em relação ao uso do software;
+
+(ii) comunicar qualquer alteração dos serviços aos usuários;
+
+(iii) fornecer o backup de sua base de dados conforme cláusula 3.6 do presente documento;
+
+(iv) efetuar alterações no software, decorrentes de ordem legal, sem qualquer custo para o cliente e de acordo com a política de atualização do software;
+
+(v) manter absoluto sigilo sobre as operações, dados, materiais, pormenores, informações, documentos, especificações técnicas ou comerciais, inovações e aperfeiçoamento tecnológicos e comerciais do cliente que sejam fornecidas durante o uso do software;
+
+(vi) não usar, comercializar, reproduzir as informações e documentos mencionados no item “v” ou dar ciência à terceiros;
+
+(vii) restituir ao usuário, após o fim da prestação dos serviços, todos os documentos que lhe tenham sido entregues ou tiver obtido, por qualquer forma, em decorrência do serviço, bem como, se for o caso, apagar, desinstalar e/ou destruir toda e qualquer informação ou dado de propriedade do cliente ou de terceiros a ele cedidos, ficando autorizada a retenção apenas dos documentos e materiais necessários para comprovar o cumprimento de suas obrigações.
+
+9.2 - São obrigações do usuário:
+
+(i) utilizar o software conforme os critérios de utilização definidos pela Qualyteam, sem alterar a sua programação, quebrar senhas ou realizar procedimentos que venham causar prejuízos aos demais usuários ou a empresa;
+
+(ii) responsabilizar-se pelo teor das informações e documentos que introduzir no software, uma vez que essas informações ficam apenas armazenadas nos servidores da Qualyteam;
+
+(iii) efetuar os pagamentos dos valores devidos, nos prazos e formas contratados;
+
+(iv) informar a Qualyteam sobre quaisquer alterações nas especificações dos serviços a serem realizadas.
+
+10 - RESTRIÇÕES
+10.1 - O usuário não poderá:
+
+(i) lesar direitos da Qualyteam, seus parceiros, usuários ou terceiros ou agir sob qualquer meio ou forma que possa contribuir com tal violação;
+
+(ii) executar atos que limitem ou impeçam a utilização do software ou acessar ilicitamente a ferramenta da Qualyteam;
+
+(iii) difundir programas, vírus ou utilizar mecanismos que não sejam expressamente recomendados na ferramenta para obtenção de informações e serviços, bem como acessar áreas de programação;
+
+(iv) explorar falhas da ferramenta (hacker), interferir na segurança, cometer usos indevidos do software ou qualquer recurso do sistema, criar links ou atalhos a serem disponibilizados em e-mails não solicitados, como mensagens spam;
+
+(v) utilizar aplicativos automatizados de coleta e seleção de dados para realizar operações massificadas ou, ainda, para coletar e transferir dados que possam ser extraídos do software para fins ilícitos, sendo que a Qualyteam se reserva ao direito de investigar qualquer atividade suspeita;
+
+(vi) utilizar a ferramenta para difundir mensagens não relacionadas com o software ou com suas finalidades, incluindo mensagens com conteúdo impróprio;
+
+(vii) inserir dados que sejam falsos, desatualizados ou incompletos.
+
+10.2 - O usuário que praticar ações ilícitas e/ou proibidas nestes Termos de Condições e Uso poderá ter seus serviços suspensos, os dados excluídos do sistema e poderá responder civil e criminalmente por qualquer dano decorrente da violação.
+
+11 - LIMITAÇÃO DE RESPONSABILIDADE
+11.1 - A Qualyteam engaja seus melhores esforços para informar, atender e proteger o usuário. Entretanto, o usuário é o único responsável pela utilização do software e pelas informações, senhas, conteúdo e documentos inseridos.
+
+11.2 - Em nenhuma hipótese, a Qualyteam ou seus representantes serão responsabilizados por:
+
+(i) danos que o usuário possa experimentar por ações de terceiros, falhas no servidor, na conexão de rede, interações maliciosas como vírus, falhas no hardware, falta de energia e indisponibilidade no ambiente operacional (equipamentos);
+
+(ii) prejuízos que o usuário possa ter em sites de internet acessíveis por links incluídos no software;
+
+(iii) danos e prejuízos que o usuário possa experimentar em decorrência do mau uso do software  em desconformidade com estes Termos e Condições de Uso, Políticas de Privacidade, com a lei, com os costumes ou com a ordem pública;
+
+11.3 - Fica esclarecido que o presente serviço não estabelece entre as partes qualquer vínculo empregatício, societário ou associativo, permanecendo cada parte como única responsável por todas as suas respectivas despesas e encargos, sejam de natureza trabalhista, previdenciária, fiscal, securitária, civil, penal ou de qualquer outra natureza ou espécie.
+
+12 - DISPONIBILIDADE DA FERRAMENTA E GARANTIAS
+12.1 - Apesar da dedicação constante da Qualyteam no sentido de fornecer informações precisas, atualizadas, corretas e completas, o site e o software poderão conter erros técnicos, inconsistências ou erros tipográficos.
+
+12.2 - O software é disponibilizado na Internet, não incluindo as seguintes garantias:
+
+(i) adequação do software para um determinado fim específico solicitado pelo cliente;
+
+(ii) inexistência de defeitos, erros ou falhas;
+
+(iii) correção de problemas, danos ou prejuízos causados por decisões tomadas pelo usuário com base em informações fornecidas pela ferramenta, assim como defeitos ou erros decorrentes de negligência, imprudência ou imperícia do cliente;
+
+(iv) problemas provenientes de caso fortuito ou força maior;
+
+12.3 - A Qualyteam se reserva o direito de modificar o software, bem como a configuração, a apresentação, o conteúdo, as funcionalidades, as ferramentas ou qualquer outro elemento, inclusive o seu cancelamento.
+
+12.4 - Na eventual impossibilidade da Qualyteam continuar suas atividades, nos comprometemos a entregar ao usuário o backup de todos os seus dados carregados ao software, conforme cláusula 3.5.
+
+13 - DADOS PESSOAIS, PRIVACIDADE E SEGURANÇA
+A Qualyteam dispõe de uma política específica para regular a coleta, guarda e utilização de dados pessoais, bem como a sua segurança: Política de Privacidade. Essa política específica integra inseparavelmente estes Termos e Condições de Uso, ressaltando-se que os dados de utilização do software serão arquivados nos termos da legislação em vigor.
+
+
+
+</value>
+  </data>
+</root>
